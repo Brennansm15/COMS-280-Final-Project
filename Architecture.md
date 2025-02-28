@@ -1,19 +1,5 @@
 Overview
   This final project is to create a banking system that can perform advanced functions such as transaction history, account management, and user authentification. To acheive these functions I will encorperate operator overloading and advanced fucntions.
-Structure
-  FinalProject/
-    COMS-280-Final-Project/
-      README.md
-    Docs/
-      Architecture.md
-    Source/
-      Banking System/
-        .vs
-        Banking System.cpp
-        Banking System.sln
-        Banking System.vcxproj
-        Banking System.vcxproj.filters
-        Banking System.vcxproj.user
 Implementation Plan
   Advanced Functions
     My advanced fucntions will 
